@@ -57,7 +57,7 @@ public class employee {
 				{
 					e[i].display();
 				}
-				else {
+			else {
 					System.out.println("\nEmployee Details are not available, Please enter a valid ID");
 					System.exit(0);
 				}
