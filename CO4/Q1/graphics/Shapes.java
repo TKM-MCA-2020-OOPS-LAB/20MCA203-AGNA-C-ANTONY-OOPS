@@ -1,7 +1,8 @@
 package graphics;
 
  interface Shapes {
-	void area();
+	
+   public void area();
 
 	
 

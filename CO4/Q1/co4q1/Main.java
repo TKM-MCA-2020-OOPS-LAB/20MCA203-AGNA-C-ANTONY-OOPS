@@ -1,5 +1,8 @@
-package graphics;
-import graphics.Shapes;
+package co4q1;
+import graphics.rectangle;
+import graphics.Circle;
+import graphics.Square;
+import graphics.Triangle;
 
 public class Main {
 
@@ -17,7 +20,7 @@ public class Main {
     	System.out.println("Triangle:");
     	Triangle t=new Triangle();
 		t.area();
+
 	}
-      
-		      
+
 }

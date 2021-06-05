@@ -1,7 +1,7 @@
 package graphics;
 import java.util.*;
 
- class Square implements Shapes {
+ public class Square implements Shapes {
 	 int a;
 	 Scanner sc=new Scanner(System.in);
 	 public void area() {

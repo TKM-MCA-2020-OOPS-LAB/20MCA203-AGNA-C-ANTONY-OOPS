@@ -2,7 +2,7 @@ package graphics;
 import java.util.*;
 
 
- class Triangle implements Shapes {
+ public class Triangle implements Shapes {
 	int h;
     int br;
 

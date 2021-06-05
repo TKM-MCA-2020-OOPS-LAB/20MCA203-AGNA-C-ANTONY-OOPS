@@ -1,7 +1,7 @@
 package graphics;
 import java.util.Scanner;
 
- class rectangle implements Shapes {
+ public class rectangle implements Shapes {
 	 int l;
 	 int b;
 	 Scanner sc=new Scanner(System.in);
